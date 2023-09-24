@@ -3,6 +3,9 @@ package main
 import "fmt"
 
 func main() {
+	Ended()
+}
+func Faada() {
 	// %d 表示整型数字，%s 表示字符串
 	var stockcode = 123
 	var enddate = "2020-12-31 %d"

@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	SL2()
+    SL3()
 }
 func Faada() {
 	// %d 表示整型数字，%s 表示字符串
